@@ -41,7 +41,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ``` 
 
-This is Food Vision 🍔👁 the app we're making.
+This is Food Vision the app we're making.
 
 6. Try an upload an image (e.g. one of the ones in [`food-images/`] such as [`ice_cream.jpeg`]( and it should load.
 
